@@ -1,0 +1,10 @@
+odo_node:
+  ros__parameters:
+    execute_c_zone:   true
+    c_zone_distance:  6.5
+    target_x_rel:     3.2
+    target_y_rel:     1.1
+    encoder_topic:    "/encoder_count"
+    imu_topic:        "/imu/data_raw"
+    scan_topic:       "scan"
+    # (scan_topic은 기본값 'scan'을 그대로 사용)
