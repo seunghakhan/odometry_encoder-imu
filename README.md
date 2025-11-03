@@ -107,12 +107,5 @@ Generates smooth velocity control signals toward a target pose.
 
 ---
 
-## 🎥 Demo Results
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/481c3ca9-252a-4006-9397-0e6db6a36dad" width="600"/>
-  <br>
-  <em>Odometry Visualization — Encoder + IMU Fusion (ROS2)</em>
-</p>
 
 
