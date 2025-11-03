@@ -68,7 +68,6 @@ and broadcasts the TF between `odom` → `base_link`.
 **Key Parameters**
 | Parameter | Description | Default |
 |------------|--------------|----------|
-| `ticks_meter` | Encoder ticks per meter | `8565.0` |
 | `odom_frame_id` | Odometry frame name | `"odom"` |
 | `base_frame_id` | Base link frame name | `"base_link"` |
 | `rate_hz` | Publish frequency | `10.0` |
